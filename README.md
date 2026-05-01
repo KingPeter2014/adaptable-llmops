@@ -1,8 +1,8 @@
 # LLMOps Reference Framework
 
-A production-ready, multi-cloud LLMOps framework that delivers a complete pipeline —
-data ingestion → storage → model development → serving → observability → governance —
-on four deployment targets from a single codebase.
+This is a multi-cloud plus open-source LLMOps framework that enables you to deliver a complete pipeline —
+data ingestion → storage → model development → serving → observability → governance. It considers
+four deployment targets from a single codebase: open-source, AWS, Azure and GCP.
 
 > **Pick your stack, fill in your credentials, wire your data sources, and ship.**
 
